@@ -1,8 +1,8 @@
 Hi, I’m @hannahnanab |
-I’m interested in Software Development |
-I’m currently learning JavaScript |
-I’m looking to collaborate on anything! |
-How to reach me: hjlaudie@gmail.com 
+Interested in Software Development |
+Currently learning JavaScript |
+Looking to collaborate on anything! |
+Reach me: hjlaudie@gmail.com 
 
 <!---
 hannahnanab/hannahnanab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
